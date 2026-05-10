@@ -55,6 +55,7 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
   - [x] 主控->被控
   - [x] 主控<-被控
 - [x] 远程开机（WOL）
+- [x] 远程更新客户端版本（Windows）
 - [x] 系统托盘
 - [x] 开机自启（无人值守）
 - [x] 进程保活（windows）
@@ -67,8 +68,9 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
   - [x] NVIDIA显卡
   - [ ] AMD显卡
 - [x] 屏幕墙
-  - [x] 单控
-  - [x] 群控
+  - [x] 支持Windows/macOS/Android
+  - [x] 支持单控
+  - [x] 支持群控
 - [x] 快捷键/常用操作
   - [x] Ctrl+Alt+Del
   - [x] 显示桌面
