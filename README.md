@@ -60,12 +60,16 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
 - [x] 开机自启（无人值守）
 - [x] 进程保活（windows）
 - [x] 在线更新/主控端远程更新被控端（windows）
+- [x] 鼠标模式
+  - [x] 使用主控端鼠标
+  - [x] 使用被控端鼠标（fps游戏）
+  - [x] 智能鼠标
 - [x] 主流编解码协议
   - [x] H264/H265
   - [x] AV1
   - [x] VP8/VP9
 - [x] 硬件加速
-  - [x] NVIDIA显卡
+  - [x] NVIDIA显卡（H264/H265/AV1）
   - [ ] AMD显卡
 - [x] 屏幕墙
   - [x] 支持Windows/macOS/Android
