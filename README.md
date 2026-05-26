@@ -22,6 +22,9 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
 - [x] 支持2K + 60 Fps
   - [x] 被控端：系统：Windows 10，显卡：NVIDIA GeForce RTX 3060 Laptop
   - [x] 主控端：Chrome浏览器/BilldDesk客户端
+- [x] 支持2K + 120 Fps
+  - [x] 被控端：系统：Windows 11，显卡：NVIDIA GeForce RTX 5070
+  - [x] 主控端：Chrome浏览器/BilldDesk客户端
 - [x] 支持1080P + 60 Fps
   - [x] 被控端：系统：Windows 10，显卡：NVIDIA GeForce RTX 2070 Laptop
   - [x] 主控端：Chrome浏览器/BilldDesk客户端
