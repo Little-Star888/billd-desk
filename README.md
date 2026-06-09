@@ -80,6 +80,7 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
 - [x] 硬件加速
   - [x] 开启/关闭编码硬件加速
   - [x] 开启/关闭解码硬件加速
+  - [x] 开启/关闭零拷贝
   - [x] NVIDIA显卡（H264/H265/AV1）
   - [ ] AMD显卡
 - [x] 屏幕墙
